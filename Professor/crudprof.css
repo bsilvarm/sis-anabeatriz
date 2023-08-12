@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: crimson;
+    font-size:xx-large;
+    color: rgb(239, 136, 136);
+    text-decoration: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    background-color: rgb(152, 230, 136);
+    color: crimson;
+}
+a:link{
+    color: crimson;
+}
+a:visited{
+    color: rgb(137, 226, 120);
+}
